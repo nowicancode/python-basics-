@@ -1,4 +1,6 @@
-#it is to show how to stone the name in a variable called name
+
+#it is to show how to stone the name in a variable called 'name'
+
 first_name=input("please enter your first name ")
 sue_name=input("please enter your sue name ")
 
